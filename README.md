@@ -14,7 +14,7 @@ Aplikasi penjualan dengan fitur login, kelola produk, dan kelola penjualan
   
 3. **Install Depedency**
    ```bash
-   cd your-project-directory
+   cd serkomJWP
    composer install
   
 4. **Buat file .env**
